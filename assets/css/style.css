@@ -3,17 +3,18 @@
     padding: 0;
     margin: 0;
     color: #d9dcd6;
+  
 }
 
 body {
     background-color: #d9dcd6;
 }
-
+/* elinimiated color from header class as its not included in the *glo class  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+   
 }
 
 .header h1 {
@@ -49,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Eliminated hero class as the div was changed to figure tag which was stylized in HTML
 .hero {
     height: 800px;
     width: 100%;
@@ -56,7 +58,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
+} */
 
 .float-left {
     float: left;
@@ -186,8 +188,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* Eliminated footer class, replaced with footer tag */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
