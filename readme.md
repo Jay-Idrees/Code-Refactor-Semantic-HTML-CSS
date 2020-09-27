@@ -1,23 +1,24 @@
 # Title
 
- The Power of semantic tags in HTML to add some 'Class' to Websites
+ The Power of semantic HTML tags in adding 'Class' to Websites
 
 
 # About
- I designed this website during the first week of my coding boot Camp experience at Columbia University, NY, USA on 9/25/2020. 
+ I designed this website during the first week of my coding boot Camp experience at Columbia University, NY, USA. Date of publication: 9/25/2020. 
  
- This website is abut an imaginary company named Horiseon, which conducts SEO (Search Engine Optimization) operations. SEO is the process of improving the quality and quantity of website traffic to a website or a web page from search engines.
+ This website is about an imaginary company Horiseon, which conducts SEO (Search Engine Optimization) operations. SEO is a process of improving the quality and quantity user traffic to a website from search engines.
  
- If interested, please refer to the link below for more detail: 
+ If interested in learning more about SEO, please refer to the link below for more detail: 
  https://en.wikipedia.org/wiki/Search_engine_optimization
 
 
  # Contact
 
- Full-Stack Software and Web Developer
-
  Jay J. Idrees, MD, MPH
+
  jidrees@live.com
+
+ Full-Stack Software and Web Developer
  
 
 # Repository contents
