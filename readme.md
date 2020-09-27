@@ -13,7 +13,7 @@
 
 
  # Contact
-
+git 
  Jay J. Idrees, MD, MPH
 
  jidrees@live.com
@@ -67,7 +67,7 @@ With this project I was able to acquire the forllowing skills during the first w
 
 * Using command line/Linux interface for navigation, deployment, inspection and making revisions to files and directories. 
 
-* Most importantly, this website building experience taught the significance of planning the design of a website to guide code structure prior to writing code. If this is not done right, code is written on the go w/o reasonable planning of design initially, it will look similar to the the sub-optimal code example. Which is haphazard, extraneous, "fragile" and difficult to debug and revise. 
+* More importantly, this website building experience emphasized to me the imprortance of taking time in laying out a design format for the website and planning a code "Map" in your mind accordingly, before actually starting to write the code. My experience has been that if this step is skipped, the code will look similar to the sub-optimal code shared in the file for comparison. As can be noted, the sub-optimal code is haphazard, extraneous, "fragile" and difficult to debug and revise- these vulenrabilities can be minimzed with proper planing at the beginning and making modifications as you go rather than inventing new design features while half the code is written. 
 
 
 
