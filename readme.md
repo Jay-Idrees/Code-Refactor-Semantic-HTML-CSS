@@ -6,7 +6,7 @@
 # About
  I designed this website during the first week of my coding boot camp experience at Columbia University, NY, USA. Date of publication: 9/25/2020. 
  
- This website is about an imaginary company Horiseon, which conducts SEO (Search Engine Optimization) operations. SEO is a process of improving the quality and quantity user traffic to a website from search engines.
+ This website is about an imaginary company Horiseon, which conducts SEO (Search Engine Optimization) operations. SEO is a process of improving the quality and quantity of user traffic to a website from search engines.
  
  If interested in learning more about SEO, please refer to the link below for more detail: 
  https://en.wikipedia.org/wiki/Search_engine_optimization
@@ -66,6 +66,8 @@ With this project I was able to acquire the forllowing skills during the first w
 * Deploying live pages in Git Hub with firm command over utilizing Master/Branch repository systems.
 
 * Using command line/Linux interface for navigation, deployment, inspection and making revisions to files and directories. 
+
+* Most importantly, this website building experience taught the significance of planning the design of a website to guide code structure prior to writing code. If this is not done right, code is written on the go w/o reasonable planning of design initially, it will look similar to the the sub-optimal code example. Which is haphazard, extraneous, "fragile" and difficult to debug and revise. 
 
 
 
