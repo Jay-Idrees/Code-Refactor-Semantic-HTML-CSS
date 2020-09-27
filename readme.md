@@ -18,7 +18,7 @@
 
  jidrees@live.com
 
- Full-Stack Software and Web Developer
+ Full-Stack Web and Software Developer
  
 
 # Repository contents
@@ -36,9 +36,9 @@
  
 # Note to user
 
- - Note that there are two sets of codes in the index.html and style.css. The final code is at the top. The suoptimal code is at the bottom in each file shown as green comment.
+ - Note that there are two sets of codes in the index.html and style.css. The final code is at the top. The sub-optimal code is at the bottom in each of the files, shown as green comment. You can press Ctrl+/ to undo/redo comment 
 
- - Both codes will produce theabout the same website, but notice how the fine code utilizes the semantic tags and is more efficiently writter, has less redundancy and very easy to read with appropriate comments. 
+ - Both codes in each of html and css files will produce about the same appearence of website, but notice how the final code (top) utilizes semantic tags, has less redundancy and is very easy to read. It has appropriate comments for each section and is more efficient (achieves more with fewer lines of code).
 
  - This code is free and you are welcome to re-process it in any way, shape or form, as needed to achieve your goal. 
 
@@ -53,11 +53,11 @@ With this project I was able to acquire the forllowing skills during the first w
 
 * Implementing best practices in structuring code in HTML using nested elements.
 
-* Implementing CSS styling via Class, Is and elemental selectors
+* Implementing CSS styling via Class and elemental selectors.
 
 * Linking external files to HTML.
 
-* Implementing the box model in HTML.
+* Implementing the box model in HTML for each element (nested or otherwise).
 
 * Masterning Manipulation of cascading style architechure in CSS for website asthetics.
 
