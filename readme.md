@@ -8,12 +8,12 @@
  
  This website is about an imaginary company Horiseon, which conducts SEO (Search Engine Optimization) operations. SEO is a process of improving the quality and quantity of user traffic to a website from search engines.
  
- If interested in learning more about SEO, please refer to the link below for more detail: 
+ If interested in learning more about SEO, please refer to the link below for addition details: 
  https://en.wikipedia.org/wiki/Search_engine_optimization
 
 
  # Contact
-git 
+
  Jay J. Idrees, MD, MPH
 
  jidrees@live.com
@@ -67,7 +67,7 @@ With this project I was able to acquire the forllowing skills during the first w
 
 * Using command line/Linux interface for navigation, deployment, inspection and making revisions to files and directories. 
 
-* More importantly, this website building experience emphasized to me the imprortance of taking time in laying out a design format for the website and planning a code "Map" in your mind accordingly, before actually starting to write the code. My experience has been that if this step is skipped, the code will look similar to the sub-optimal code shared in the file for comparison. As can be noted, the sub-optimal code is haphazard, extraneous, "fragile" and difficult to debug and revise- these vulenrabilities can be minimzed with proper planing at the beginning and making modifications as you go rather than inventing new design features while half the code is written. 
+* More importantly, this website building experience emphasized to me the imprortance of taking time in laying out a design format for the website and planning a code "Map" in your mind accordingly, before actually starting to write the code. My experience has been that if this step is skipped, the code will look similar to the sub-optimal code shared in the file for comparison. As can be noted, the sub-optimal code is haphazard, extraneous, "fragile" and difficult to debug and revise- these vulenrabilities can be minimzed with proper planing at the beginning and making modifications as you go, rather than inventing new design features while half the code is already written. 
 
 
 
