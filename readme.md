@@ -30,9 +30,13 @@
 
 # Technologies used in the creation of this website
 
- HTML
- CSS
- Human Imagination and Creative Thinking
+ - HTML
+
+ - CSS
+
+ - Human Imagination
+
+ - Creative Thinking
  
 # Note to user
 
