@@ -4,7 +4,7 @@
 
 
 # About
- I designed this website during the first week of my coding boot Camp experience at Columbia University, NY, USA. Date of publication: 9/25/2020. 
+ I designed this website during the first week of my coding boot camp experience at Columbia University, NY, USA. Date of publication: 9/25/2020. 
  
  This website is about an imaginary company Horiseon, which conducts SEO (Search Engine Optimization) operations. SEO is a process of improving the quality and quantity user traffic to a website from search engines.
  
@@ -25,7 +25,7 @@
 
  - HTML file (index.html)
  - CSS files (style.css in the /assets/css folder)
- - Images (in the assets/image folder)
+ - Images (in the assets/images folder)
  - Readme (readme.md)
 
 # Technologies used in the creation of this website
@@ -36,7 +36,7 @@
  
 # Note to user
 
- - Note that there are two sets of codes in the index.html and style.css. The final code is at the top. The sub-optimal code is at the bottom in each of the files, shown as green comment. You can press Ctrl+/ to undo/redo comment 
+ - Note that there are two sets of codes in the index.html and style.css. The final code is at the top. The sub-optimal code is at the bottom in each of the files, shown as green comment. You can press Ctrl+/ to undo or redo comment.
 
  - Both codes in each of html and css files will produce about the same appearence of website, but notice how the final code (top) utilizes semantic tags, has less redundancy and is very easy to read. It has appropriate comments for each section and is more efficient (achieves more with fewer lines of code).
 
