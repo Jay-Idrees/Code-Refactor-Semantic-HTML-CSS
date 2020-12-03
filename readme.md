@@ -61,6 +61,9 @@ Command over building websites using semantic HTML and CSS.
 
 - Implementing best practices in structuring code in HTML using nested elements.
 
+
+![](./assets/images/example.png)
+
 - Implementing CSS styling via Class and elemental selectors.
 
 - Linking external files to HTML in the Head. 
@@ -87,6 +90,7 @@ index.html <br />
 style.css
 
 
+
 ## Installation
 
 Note indicated
@@ -95,9 +99,9 @@ Note indicated
 
 To start the application, please type the following command in the terminal
 
-```
-Please visit this web link: https://jidrees.github.io/hw1-code-refactor/
-```
+
+Please visit this web link: (https://jidrees.github.io/hw1-code-refactor/)
+
 
 
 ## Testing
