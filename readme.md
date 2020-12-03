@@ -61,8 +61,8 @@ Command over building websites using semantic HTML and CSS.
 
 - Implementing best practices in structuring code in HTML using nested elements.
 
+![Usage demo](./assets/images/example.png)
 
-![Semantic](example.PNG)
 
 - Implementing CSS styling via Class and elemental selectors.
 
