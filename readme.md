@@ -4,7 +4,7 @@
 This project is about demonstration of refactoring code in HTML and CSS using semantic tags.
 I refactored this webpage during the first week of my coding boot camp experience at Columbia University, NY, USA. Date of publication: 9/25/2020.
 
-[Link to the Refactored Webpage](https://jidrees.github.io/Code-Refactor-Semantic-HTML-CSS/)<br />
+[Link to the Refactored Webpage](https://jay-idrees.github.io/Code-Refactor-Semantic-HTML-CSS/)<br />
 
 An imaginary company Horiseon, which conducts SEO (Search Engine Optimization) operations. SEO is a process of improving the quality and quantity of user traffic to a website from search engines.
 If interested in learning more about SEO, please refer to the link below for addition details: https://en.wikipedia.org/wiki/Search_engine_optimization
